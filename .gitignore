@@ -13,4 +13,4 @@ doc/*.txt
 doc/**/*.txt
 
 ggg/index*.html
-q
+log.txt
